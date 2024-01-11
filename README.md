@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Igu
 
 <!--
+
+## My personal reserch focuses on the literature history based on the human condition
 **IguBellart/IguBellart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

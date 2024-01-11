@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Igu
+# Hi there 👋 I'm Igu
 ## My personal reserch focuses on the literature history based on the human condition
 <!--
 
